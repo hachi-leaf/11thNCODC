@@ -1,4 +1,4 @@
-光赛小车题 已拿国赛一等奖
+2023光赛小车题 已拿国赛一等奖
 硬件：Arduino Uno，RDK X3 module，差速小车，tb6612电机驱动，MG513电机及霍尔编码器，感为灰度传感器，usb camera，维特智能6轴陀螺仪，LM2596降压模块，24V电池组
 软件：
 guangsai_national
