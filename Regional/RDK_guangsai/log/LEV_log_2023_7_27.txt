@@ -1,0 +1,139 @@
+
+==================================================
+At 6:28:19 begin
+  Open serial succes
+  Open camera succes
+  Load models succes
+  Reading map...
+  The vim loc:
+    [6,0]
+    [6,4]
+    [5,8]
+    [7,5]
+    [2,4]
+    [4,1]
+    [3,5]
+    [3,9]
+  Run begin
+  6:28:37 From [9,0] to [6,0]: +++++++++
+    Arrive [6,0] class: 3
+    remove [3,9]
+    remove [6,4]
+  6:28:51 From [6,0] to [5,8]: +++++++++
+    Arrive [5,8] class: 2
+    remove [4,1]
+    remove [7,5]
+  6:29:6 From [5,8] to [2,4]: +
+  outage
+  restart
+  6:29:22 From [9,0] to [2,4]: ++++++++++++++
+    Arrive [2,4] class: -1
+  6:29:49 From [2,4] to [3,5]: ++
+  outage
+  restart
+  6:29:57 From [9,0] to [3,5]: 
+  outage
+  restart
+  6:30:2 From [9,0] to [3,5]: ++++++++++
+    Arrive [3,5] class: 3
+    remove [0,9]
+  6:30:17 From [3,5] to [0,9]: +++++++
+  outage
+  restart
+  6:30:39 From [9,0] to [0,9]: ++++++++++
+  Finish, time spend 134.59061765670776
+
+==================================================
+At 6:42:19 begin
+  Open serial succes
+  Open camera succes
+  Load models succes
+  Reading map...
+  The vim loc:
+    [6,0]
+    [6,4]
+    [5,8]
+    [7,5]
+    [2,4]
+    [4,1]
+    [3,5]
+    [3,9]
+  Run begin
+  6:43:9 From [9,0] to [6,0]: +++++++++
+    Arrive [6,0] class: 3
+    remove [3,9]
+    remove [6,4]
+  6:43:23 From [6,0] to [5,8]: +++
+  outage
+  restart
+  6:43:35 From [9,0] to [5,8]: +++++++++++++
+    Arrive [5,8] class: 2
+    remove [4,1]
+    remove [7,5]
+  6:43:57 From [5,8] to [2,4]: ++
+  outage
+==================================================
+At 6:55:50 begin
+  Open serial succes
+  Open camera succes
+  Load models succes
+  Reading map...
+  The vim loc:
+    [6,0]
+    [6,4]
+    [5,8]
+    [7,5]
+    [2,4]
+    [4,1]
+    [3,5]
+    [3,9]
+  Run begin
+  6:57:7 From [9,0] to [6,0]: +++++++++
+    Arrive [6,0] class: 3
+    remove [3,9]
+    remove [6,4]
+  6:57:21 From [6,0] to [5,8]: +++++++++
+    Arrive [5,8] class: 3
+    remove [4,1]
+    remove [7,5]
+  6:57:36 From [5,8] to [2,4]: +++++++++++
+    Arrive [2,4] class: 3
+  Remove all
+  6:57:51 From [2,4] to [3,5]: ++++++++
+    Arrive [3,5] class: 3
+    remove [0,9]
+  6:58:7 From [3,5] to [0,9]: ++++++++++++
+  Finish, time spend 76.33217859268188
+
+==================================================
+At 7:0:24 begin
+  Open serial succes
+  Open camera succes
+  Load models succes
+  Reading map...
+  The vim loc:
+    [6,0]
+    [6,4]
+    [5,8]
+    [7,5]
+    [2,4]
+    [4,1]
+    [3,5]
+    [3,9]
+  Run begin
+  7:1:15 From [9,0] to [6,0]: +++++++++
+    Arrive [6,0] class: 3
+    remove [3,9]
+    remove [6,4]
+  7:1:30 From [6,0] to [5,8]: ++++++
+  outage
+  restart
+  7:1:49 From [9,0] to [5,8]: +++++++++++++
+    Arrive [5,8] class: 3
+    remove [4,1]
+    remove [7,5]
+  7:2:9 From [5,8] to [2,4]: +++++++++++
+    Arrive [2,4] class: 3
+  Remove all
+  7:2:24 From [2,4] to [0,9]: +++++++++++
+  Finish, time spend 82.49855709075928
